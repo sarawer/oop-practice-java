@@ -16,5 +16,5 @@ This repository contains beginner-level Java projects focused on learning Object
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<sarawer>/oop-practice-java.git
+   git clone https:https://github.com/sarawer/oop-practice-java
    cd oop-practice-java
